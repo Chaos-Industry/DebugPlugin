@@ -1,0 +1,4 @@
+name: Testworld
+version: @version@
+main: com.github.crewl.testworld.Testworld
+api-version: 1.15
